@@ -1,0 +1,18 @@
+# 复制本文件为 config.yaml 后按需修改
+# 也可以先不改：启动程序后打开管理后台，按安装向导填写
+
+redis:
+  addr: 127.0.0.1:6379
+  pass: ""
+  db: 0
+
+# 安装向导完成后会自动写入主站库 / 插件库连接
+main_mysql_dsn: ""
+plugin_mysql_dsn: ""
+table_prefix: love_learn
+plugin_table_prefix: tj_
+installed: false
+
+admin:
+  enabled: true
+  addr: ":8090"

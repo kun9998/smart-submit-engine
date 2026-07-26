@@ -1,0 +1,1 @@
+import{i as r}from"./ConfigProvider-DuRlqmCY.js";import{h as n,i}from"./index-D0K5ER8T.js";function c(t){const e=r({dir:n("ltr")});return i(()=>{var o;return(t==null?void 0:t.value)||((o=e.dir)==null?void 0:o.value)||"ltr"})}export{c as u};

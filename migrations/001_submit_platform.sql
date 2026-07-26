@@ -1,0 +1,1 @@
+-- 已迁移至 tj/plugin_install.sql（插件独立库，与 install.sql 主站分离）
